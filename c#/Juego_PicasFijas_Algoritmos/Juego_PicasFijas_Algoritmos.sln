@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Juego_PicasFijas_Algoritmos", "Juego_PicasFijas_Algoritmos\Juego_PicasFijas_Algoritmos.csproj", "{AE64B12E-995D-44CE-84CD-6F51745E42E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE64B12E-995D-44CE-84CD-6F51745E42E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE64B12E-995D-44CE-84CD-6F51745E42E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE64B12E-995D-44CE-84CD-6F51745E42E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE64B12E-995D-44CE-84CD-6F51745E42E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C749E10-26E0-4869-A1E1-C23427832323}
+	EndGlobalSection
+EndGlobal
