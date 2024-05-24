@@ -1,0 +1,4 @@
+JUGADOR 1 Tu puntaje es: 6
+JUGADOR 2 Tu puntaje es: 4
+JUGADOR 3 Tu puntaje es: 5
+SANTI Tu puntaje es: 8
