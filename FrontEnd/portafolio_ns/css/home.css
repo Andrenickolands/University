@@ -1,0 +1,88 @@
+body{
+	font-family: 'Abhaya Libre', serif;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #FBFBFB;
+    display: flex;
+    justify-content: center;
+    align-items: 40%;
+    min-height: 100vh;
+    margin: 0;
+}
+
+h1 {
+    margin-top: -2%;
+    margin-bottom: 48px;
+    margin-left: -18%;
+
+    color: #343434;
+    text-align: left;
+    font-family: Abhaya Libre ExtraBold;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+
+
+}
+
+
+h2{
+    margin-top: -14%;
+    margin-left: -44%;
+
+    color: #343434;
+    text-align: left;
+    font-family: Abhaya Libre;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
+
+
+.boton{
+
+    position: absolute;
+    margin-left: 24%;
+    margin-top: -6%;
+
+    padding: 4px;
+    width: 200px;
+    height: 52px;
+    flex-shrink: 0;
+
+    border-radius: 14px;
+    background: #EDEDED;
+    border: none;
+
+    box-shadow: 0px 4px 6px 0px rgba(33, 33, 33, 0.30), 0px 2px 4px 0px rgba(33, 33, 33, 0.14), 0px -6px 4px 0px rgba(97, 97, 97, 0.25) inset;
+    backdrop-filter: blur(2px);
+
+    color: #646464;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-style: extrabold;
+    font-weight: 800;
+    line-height: normal;
+
+   
+}
+
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+}
+
+:root {
+  --white-grad-1: linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%);
+}
+
+.bg-white-grad-1 {
+  background: var(--white-grad-1);
+}
